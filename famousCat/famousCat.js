@@ -27,13 +27,14 @@ function findFamousCats(cats) {
     dataAccumulator.push({ name, followers: SumaSeguidores });
   })
 
+
   const newCatData = dataAccumulator;
 
   let maxFollowers = 0;
   let TotalNameCat = [];
 
   newCatData.map((data) => {
-
+    console.log(data);
     if (maxFollowers < data.followers) {
       maxFollowers = data.followers;
     }

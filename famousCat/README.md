@@ -1,5 +1,5 @@
 ## Famous Cat
 
-Este reto busca en un array de gatos famosos, suma sus followers y retorna los más famosos. 😺
+El reto se trata de sumar los seguidores de cada uno de los gatos y retornar él ó los más famosos. 😺
 
 ![Esta es una imagen de ejemplo](resultado.png)
